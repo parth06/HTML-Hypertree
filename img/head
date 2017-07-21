@@ -1,0 +1,6 @@
+digraph {
+	node [color=skyblue style=filled]
+	label=Head
+	html -> head
+	head -> title
+}

@@ -1,0 +1,5 @@
+digraph {
+	node [color=skyblue style=filled]
+	label=Prime
+	head -> title
+}

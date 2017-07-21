@@ -1,0 +1,19 @@
+digraph {
+	node [color=skyblue style=filled]
+	label="Hyper Tree"
+	html -> head
+	head -> title
+	html -> body
+	body -> h1
+	body -> table
+	table -> tr
+	tr -> td
+	td -> img
+	tr -> a
+	tr -> br
+	body -> p
+	body -> h2
+	body -> h3
+	body -> ul
+	ul -> li
+}
